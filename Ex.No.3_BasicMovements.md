@@ -57,7 +57,8 @@ public class TransformOperations : MonoBehaviour
 }
 ```
 ### Output:
-![Uploading Screenshot 2026-07-24 143507.png…]()
+<img width="1917" height="1078" alt="Screenshot 2026-07-24 143507" src="https://github.com/user-attachments/assets/e0cfbcc4-8403-42e7-bc61-adfb0862b8c5" />
+
 
 
 
